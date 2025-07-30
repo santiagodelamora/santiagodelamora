@@ -3,5 +3,7 @@
 - 👀 I’m interested in software development, web development fullstack, Android development and Machine Learning.
 - 🌱 I’m currently learning advanced HTML, advanced CSS, advanced JavaScripy, React.js, advanced Python, advanced Java and C++.
 - 💞️ I’m looking to collaborate on a Website, a Web Application, or an Android Application.
-- 📫 How to reach me: Instagram: ogaitnas_tsu.official   YouTube: Agencia Espacial Singular
+- 📫 How to reach me:
+    - Instagram: ogaitnas_tsu.official
+    - YouTube: ᴏɢᴀɪᴛɴᴀs ㋡ (ogaitnas_tsu)
 - 😄 Pronouns: El/He/Him/Er
