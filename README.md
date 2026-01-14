@@ -1,6 +1,6 @@
 # Hi, I'm Santiago De la mora
 
-## Connect with me
+## 🖥️ Connect with me
 <p align="center">
     <a href="https://github.com/santiagodelamora">
         <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
