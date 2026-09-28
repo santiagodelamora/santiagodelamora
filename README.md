@@ -4,10 +4,6 @@ I'm autodidact and passionate about programming and software developement.
 
 ## 🖥️ Connect with me
 <p align="center">
-    <a href="https://github.com/santiagodelamora">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    &emsp;
     <a href="https://www.instagram.com/ogaitnas_tsu.official/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
@@ -22,7 +18,7 @@ I'm autodidact and passionate about programming and software developement.
 <p align="center">
     &emsp;
     <a href="" title="Español"> 
-        <img heigth="40" width="40" alt="Español" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/250px-Bandera_de_Espa%C3%B1a.svg.png">
+        <img heigth="40" width="40" alt="Español" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bandera_nacional_de_Espa%C3%B1a.png/960px-Bandera_nacional_de_Espa%C3%B1a.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
     </a>
     &emsp;
     <a href="" title="English"> 
@@ -114,7 +110,7 @@ I'm autodidact and passionate about programming and software developement.
     </a>
     &emsp;
     <a href="https://www.npmjs.com/" title="NPM">
-        <img heigth="40" width="40" alt="NPM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png">
+        <img heigth="40" width="40" alt="NPM" src="https://cdn.iconscout.com/icon/free/png-256/free-npm-icon-svg-download-png-1175132.png?f=webp">
     </a>
     &emsp;
     <a href="https://www.mysql.com/" title="MySQL">
@@ -126,7 +122,7 @@ I'm autodidact and passionate about programming and software developement.
 <p align="center">
     &emsp;
     <a href="https://netbeans.apache.org/front/main/index.html"  title="Apache NetBeans">
-        <img heigth="40" width="40" alt="Apache NetBeans" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" />
+        <img heigth="40" width="40" alt="Apache NetBeans" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1280px-Apache_NetBeans_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </a>
     &emsp;
     <a href="https://code.visualstudio.com/" title="Visual Studio Code">
@@ -138,7 +134,7 @@ I'm autodidact and passionate about programming and software developement.
     </a>
     &emsp;
     <a href="https://www.jetbrains.com/es-es/idea/" title="InteliJ">
-        <img heigth="40" width="40" alt="InteliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
+        <img heigth="40" width="40" alt="InteliJ" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </a>
 </p>
 
