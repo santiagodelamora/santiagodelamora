@@ -49,25 +49,25 @@ I'm autodidact and passionate about programming and software developement.
         <img heigth="40" width="40" alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg">
     </a>
     &emsp;
-    <a href="" title="SQL">
-        <img heigth="60" width="60" alt="SQL" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1">
-    </a>
-    &emsp;
     <a href="https://devdocs.io/cpp/" title="C++">
         <img heigth="40" width="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-original.svg">
+    </a>
+    &emsp;
+    <a href="" title="SQL">
+        <img heigth="60" width="60" alt="SQL" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1">
     </a>
     &emsp; 
     <a href="https://www.w3.org/html/" title="HTML"> 
         <img heigth="40" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     </a>
     &emsp;
+    <a href="https://www.w3schools.com/css/" title="CSS">
+        <img heigth="40" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+    </a>
+    &emsp;
     <a href="https://www.markdownguide.org/" title="Markdown">
         <img heigth="40" width="40" alt="Markdown" src="https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png">
     </a>  
-    &emsp;
-    <a href="https://www.w3schools.com/css/" title="CSS">
-        <img heigth="40" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    </a> 
 </p>
 
 ### Frameworks & Libraries
