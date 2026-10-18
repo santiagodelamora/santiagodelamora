@@ -111,7 +111,7 @@ I'm self-taught and passionate about programming and software development.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=santiagodelamora&style=flat-square&color=FF6A3D&label=Profile+views" alt="Profile views" />
+<img src="https://hits.sh/github.com/santiagodelamora.svg?label=Profile%20views&color=FF6A3D&style=flat-square" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF8C00,100:FF2E63&height=80&section=footer" alt="" width="100%" />
 
