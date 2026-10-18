@@ -1,155 +1,118 @@
-# Hi, I'm Santiago De la mora
-I'm a Mexican software engineering student. I'm 19 years old.
-I'm autodidact and passionate about programming and software developement.
+<div align="center">
 
-## 🖥️ Connect with me
-<p align="center">
-    <a href="https://www.instagram.com/ogaitnas_tsu.official/">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    &emsp;
-    <a href="https://discord.com/users/815280200107425812">
-        <img src="https://img.shields.io/badge/discord-005697?logo=discord&logoColor=white">
-    </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF8C00,100:FF2E63&height=200&section=header&text=Santiago%20De%20la%20mora&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20Student&descSize=18&descAlignY=64" alt="Santiago De la mora" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=FF6A3D&center=true&vCenter=true&width=520&lines=Software+engineering+student;Web+%C2%B7+Desktop+%C2%B7+Android;Always+learning%2C+always+building" alt="Typing intro" />
+
+<a href="https://www.instagram.com/ogaitnas_tsu.official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://discord.com/users/815280200107425812"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
+</div>
+
+I'm a Mexican software engineering student. I'm 19 years old.
+I'm self-taught and passionate about programming and software development.
 
 ## 🛠️ My Skills
-### Languages
-<p align="center">
-    &emsp;
-    <a href="" title="Español"> 
-        <img heigth="40" width="40" alt="Español" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bandera_nacional_de_Espa%C3%B1a.png/960px-Bandera_nacional_de_Espa%C3%B1a.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
-    </a>
-    &emsp;
-    <a href="" title="English"> 
-        <img heigth="40" width="40" alt="English" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1280px-Flag_of_the_United_Kingdom_%281-2%29.svg.png">
-    </a>
-</p>
-
 ### Programming / Markup / Style languages
 <p align="center">
+    <a href="https://www.java.com" title="Java"><img height="48" alt="Java" src="https://skillicons.dev/icons?i=java"></a>
     &emsp;
-    <a href="https://www.java.com" title="Java"> 
-        <img heigth="40" width="40" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    </a>
+    <a href="https://www.python.org" title="Python"><img height="48" alt="Python" src="https://skillicons.dev/icons?i=py"></a>
     &emsp;
-    <a href="https://www.python.org" title="Python">
-        <img heigth="40" width="40" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg">
-    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img height="48" alt="JavaScript" src="https://skillicons.dev/icons?i=js"></a>
     &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"> 
-        <img heigth="40" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    </a>
+    <a href="https://www.typescriptlang.org/" title="TypeScript"><img height="48" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"></a>
     &emsp;
-    <a href="https://www.php.net/" title="PHP">
-        <img heigth="40" width="40" alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg">
-    </a>
+    <a href="https://www.php.net/" title="PHP"><img height="48" alt="PHP" src="https://skillicons.dev/icons?i=php"></a>
     &emsp;
-    <a href="https://kotlinlang.org/" title="Kotlin">
-        <img heigth="40" width="40" alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg">
-    </a>
+    <a href="https://kotlinlang.org/" title="Kotlin"><img height="48" alt="Kotlin" src="https://skillicons.dev/icons?i=kotlin"></a>
     &emsp;
-    <a href="https://devdocs.io/cpp/" title="C++">
-        <img heigth="40" width="40" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cplusplus/cplusplus-original.svg">
-    </a>
+    <a href="https://devdocs.io/cpp/" title="C++"><img height="48" alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
     &emsp;
-    <a href="" title="SQL">
-        <img heigth="60" width="60" alt="SQL" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1">
-    </a>
-    &emsp; 
-    <a href="https://www.w3.org/html/" title="HTML"> 
-        <img heigth="40" width="40" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    </a>
+    <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img height="48" alt="C#" src="https://skillicons.dev/icons?i=cs"></a>
     &emsp;
-    <a href="https://www.w3schools.com/css/" title="CSS">
-        <img heigth="40" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    </a>
+    <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img height="48" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"></a>
     &emsp;
-    <a href="https://www.markdownguide.org/" title="Markdown">
-        <img heigth="40" width="40" alt="Markdown" src="https://cdn.commonmark.org/uploads/default/original/2X/3/366f3614de6996d79a131fdf9b41ed7d65cfe181.png">
-    </a>  
+    <a href="https://www.w3.org/html/" title="HTML"><img height="48" alt="HTML" src="https://skillicons.dev/icons?i=html"></a>
+    &emsp;
+    <a href="https://www.w3schools.com/css/" title="CSS"><img height="48" alt="CSS" src="https://skillicons.dev/icons?i=css"></a>
+    &emsp;
+    <a href="https://www.markdownguide.org/" title="Markdown"><img height="48" alt="Markdown" src="https://skillicons.dev/icons?i=md"></a>
 </p>
 
 ### Frameworks & Libraries
 <p align="center">
+    <a href="https://es.react.dev/" title="React"><img height="48" alt="React" src="https://skillicons.dev/icons?i=react"></a>
     &emsp;
-    <a href="https://es.react.dev/" title="React">
-        <img heigth="40" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg">
-    </a>
+    <a href="https://vuejs.org/" title="Vue"><img height="48" alt="Vue" src="https://skillicons.dev/icons?i=vue"></a>
     &emsp;
-    <a href="https://vuejs.org/" title="Vue">
-        <img heigth="40" width="40" alt="Vue" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vuejs/vuejs-original.svg">
-    </a>
-    &emsp;
-    <a href="https://expressjs.com/" title="Express.js">
-        <img heigth="40" width="40" alt="Express.js" src="https://images.seeklogo.com/logo-png/33/1/express-js-logo-png_seeklogo-339850.png">
-    </a>
-    &emsp;
-    <a href="https://developer.android.com/" title="Android SDK">
-        <img heigth="40" width="40" alt="Android SDK" src="https://www.mcbluna.net/wp/wp-content/uploads/mcbluna_net/sdk-platform-tools-logo.webp">
-    </a>
+    <a href="https://expressjs.com/" title="Express.js"><img height="48" alt="Express.js" src="https://skillicons.dev/icons?i=express"></a>
 </p>
 
 ### Software & Tools
 <p align="center">
+    <a href="https://git-scm.com/" title="Git"><img height="48" alt="Git" src="https://skillicons.dev/icons?i=git"></a>
     &emsp;
-    <a href="https://git-scm.com/" title="Git">
-        <img heigth="40" width="40" alt="Git" src="https://images.icon-icons.com/2415/PNG/512/git_original_logo_icon_146509.png">
-    </a>
+    <a href="https://github.com/" title="GitHub"><img height="48" alt="GitHub" src="https://skillicons.dev/icons?i=github"></a>
     &emsp;
-    <a href="https://github.com/" title="GitHub">
-        <img heigth="40" width="40" alt="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
-    </a>
+    <a href="https://www.json.org/json-es.html" title="JSON"><img height="48" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"></a>
     &emsp;
-    <a href="https://www.json.org/json-es.html" title="JSON">
-        <img heigth="40" width="40" alt="JSON" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/json/json-original.svg">
-    </a>
+    <a href="https://nodejs.org/es" title="Node.js"><img height="48" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"></a>
     &emsp;
-    <a href="https://nodejs.org/es" title="Node.js">
-        <img heigth="40" width="40" alt="Node.js" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
-    </a>
+    <a href="https://www.npmjs.com/" title="NPM"><img height="48" alt="NPM" src="https://skillicons.dev/icons?i=npm"></a>
     &emsp;
-    <a href="https://www.npmjs.com/" title="NPM">
-        <img heigth="40" width="40" alt="NPM" src="https://cdn.iconscout.com/icon/free/png-256/free-npm-icon-svg-download-png-1175132.png?f=webp">
-    </a>
-    &emsp;
-    <a href="https://www.mysql.com/" title="MySQL">
-        <img heigth="40" width="40" alt="MySQL" src="https://logo-teka.com/wp-content/uploads/2025/09/mysql-logo.png">
-    </a>
+    <a href="https://www.mysql.com/" title="MySQL"><img height="48" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
 </p>
 
-### IDEs 
+### IDEs
 <p align="center">
+    <a href="https://netbeans.apache.org/front/main/index.html" title="Apache NetBeans"><img height="48" alt="Apache NetBeans" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"></a>
     &emsp;
-    <a href="https://netbeans.apache.org/front/main/index.html"  title="Apache NetBeans">
-        <img heigth="40" width="40" alt="Apache NetBeans" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1280px-Apache_NetBeans_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </a>
+    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img height="48" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=vscode"></a>
     &emsp;
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code">
-        <img heigth="40" width="40" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/250px-Visual_Studio_Code_1.35_icon.svg.png">
-    </a>
+    <a href="https://developer.android.com/studio?hl=es-419" title="Android Studio"><img height="48" alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
     &emsp;
-    <a href="https://developer.android.com/studio?hl=es-419" title="Android Studio">
-        <img heigth="40" width="40" alt="Android Studio" src="https://images.icon-icons.com/1381/PNG/512/androidstudio_93831.png" />
-    </a>
-    &emsp;
-    <a href="https://www.jetbrains.com/es-es/idea/" title="InteliJ">
-        <img heigth="40" width="40" alt="InteliJ" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1280px-IntelliJ_IDEA_Icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </a>
+    <a href="https://www.jetbrains.com/es-es/idea/" title="IntelliJ IDEA"><img height="48" alt="IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea"></a>
 </p>
 
 ### Operating Systems
 <p align="center">
+    <a href="https://linuxmint.com/" title="Linux Mint"><img height="48" alt="Linux Mint" src="https://skillicons.dev/icons?i=mint"></a>
     &emsp;
-    <a href="https://linuxmint.com/" title="Linux Mint">
-        <img heigth="40" width="40" alt="Linux Mint" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/960px-Linux_Mint_logo_without_wordmark.svg.png">
-    </a>
+    <a href="https://www.microsoft.com/windows" title="Windows"><img height="48" alt="Windows" src="https://skillicons.dev/icons?i=windows"></a>
     &emsp;
-    <a href="#" title="Windows">
-        <img heigth="40" width="40" alt="Windows" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/250px-Windows_logo_-_2012.svg.png">
-    </a>
-    &emsp;
-    <a href="https://www.android.com/intl/es-419_mx/" title="Android">
-        <img heigth="40" width="40" alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Android_robot_%282014-2019%29.svg/250px-Android_robot_%282014-2019%29.svg.png">
-    </a>
+    <a href="https://www.android.com/intl/es-419_mx/" title="Android"><img height="48" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"></a>
 </p>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=santiagodelamora&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF2E63&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagodelamora&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=santiagodelamora&hide_border=true&background=0D1117&ring=FF8C00&fire=FF2E63&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santiagodelamora&theme=github_dark" alt="Profile details" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagodelamora&theme=github_dark" alt="Repos per language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santiagodelamora&theme=github_dark" alt="Most commit language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santiagodelamora&theme=github_dark&utcOffset=-6" alt="Productive time" />
+
+<img width="100%" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile-3d-contrib/profile-sunset.svg" alt="3D contribution calendar" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/output/github-snake.svg" />
+  <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=santiagodelamora&style=flat-square&color=FF6A3D&label=Profile+views" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF8C00,100:FF2E63&height=80&section=footer" alt="" width="100%" />
+
+</div>

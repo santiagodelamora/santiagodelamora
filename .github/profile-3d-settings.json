@@ -1,0 +1,32 @@
+{
+  "type": "normal",
+  "fileName": "profile-sunset.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1F2328",
+  "strongColor": "#E0234E",
+  "weakColor": "gray",
+  "radarColor": "#FF8C00",
+  "growingAnimation": true,
+  "contribColors": [
+    "#EBEDF0",
+    "#FFD8A8",
+    "#FFA94D",
+    "#FF6A3D",
+    "#E0234E"
+  ],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0D1117",
+    "foregroundColor": "#C9D1D9",
+    "strongColor": "#FF8C00",
+    "weakColor": "#8B949E",
+    "radarColor": "#FF8C00",
+    "contribColors": [
+      "#21262D",
+      "#7A3412",
+      "#C2410C",
+      "#FF6A3D",
+      "#FF2E63"
+    ]
+  }
+}
