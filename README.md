@@ -84,6 +84,14 @@ I'm self-taught and passionate about programming and software development.
     <a href="https://www.android.com/intl/es-419_mx/" title="Android"><img height="48" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"></a>
 </p>
 
+## 💬 Random dev quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=0D1117&quoteColor=C9D1D9&authorColor=FF8C00&symbolColor=FF2E63" alt="Random dev quote" />
+
+</div>
+
 ## 📊 GitHub stats
 
 <div align="center">
