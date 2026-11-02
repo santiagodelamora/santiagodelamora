@@ -1,0 +1,44 @@
+name: Generate GitHub stats cards
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # every day at 00:00 Mexico City time
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF2E63&text_color=C9D1D9
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&langs_count=8
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile
+          if git commit -m "Update GitHub stats cards"; then
+            git pull --rebase --autostash origin main
+            git push
+          fi

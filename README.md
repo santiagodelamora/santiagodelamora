@@ -96,8 +96,8 @@ I'm self-taught and passionate about programming and software development.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=santiagodelamora&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF2E63&text_color=C9D1D9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagodelamora&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+<img height="170" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile/top-langs.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=santiagodelamora&hide_border=true&background=0D1117&ring=FF8C00&fire=FF2E63&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 
