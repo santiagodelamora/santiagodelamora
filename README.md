@@ -101,10 +101,10 @@ I'm self-taught and passionate about programming and software development.
 
 <img src="https://streak-stats.demolab.com?user=santiagodelamora&hide_border=true&background=0D1117&ring=FF8C00&fire=FF2E63&currStreakNum=FF8C00&currStreakLabel=FF8C00&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub streak" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santiagodelamora&theme=github_dark" alt="Profile details" />
+<img width="100%" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile/profile-details.svg" alt="Profile details" />
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santiagodelamora&theme=github_dark" alt="Repos per language" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santiagodelamora&theme=github_dark" alt="Most commit language" />
+<img width="32%" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile/repos-per-language.svg" alt="Repos per language" />
+<img width="32%" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile/most-commit-language.svg" alt="Most commit language" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santiagodelamora&theme=github_dark&utcOffset=-6" alt="Productive time" />
 
 <img width="100%" src="https://raw.githubusercontent.com/santiagodelamora/santiagodelamora/main/profile-3d-contrib/profile-sunset.svg" alt="3D contribution calendar" />

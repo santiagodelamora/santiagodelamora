@@ -17,21 +17,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: stats-organization/github-readme-stats-action@v2
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF2E63&text_color=C9D1D9
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
-      - uses: stats-organization/github-readme-stats-action@v2
+      - uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      # Productive time stays out: it would publish the hours of private commits
+      - name: Copy summary cards
+        run: |
+          cp profile-summary-card-output/github_dark/0-profile-details.svg profile/profile-details.svg
+          cp profile-summary-card-output/github_dark/1-repos-per-language.svg profile/repos-per-language.svg
+          cp profile-summary-card-output/github_dark/2-most-commit-language.svg profile/most-commit-language.svg
 
       - name: Commit & push
         run: |
