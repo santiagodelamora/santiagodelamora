@@ -62,9 +62,19 @@ I'm self-taught and passionate about programming and software development.
     <a href="https://www.npmjs.com/" title="NPM"><img height="48" alt="NPM" src="https://skillicons.dev/icons?i=npm"></a>
     &emsp;
     <a href="https://www.mysql.com/" title="MySQL"><img height="48" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"></a>
+    &emsp;
+    <a href="https://www.sqlite.org/" title="SQLite"><img height="48" alt="SQLite" src="https://skillicons.dev/icons?i=sqlite"></a>
+    &emsp;
+    <a href="https://www.microsoft.com/sql-server" title="SQL Server"><img height="48" alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"></a>
+    &emsp;
+    <a href="https://www.apachefriends.org/es/index.html" title="XAMPP"><img height="48" alt="XAMPP" src="https://cdn.simpleicons.org/xampp/FB7A24"></a>
+    &emsp;
+    <a href="https://www.docker.com/" title="Docker"><img height="48" alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
+    &emsp;
+    <a href="https://www.figma.com/" title="Figma"><img height="48" alt="Figma" src="https://skillicons.dev/icons?i=figma"></a>
 </p>
 
-### IDEs
+### IDEs & Editores de Código
 <p align="center">
     <a href="https://netbeans.apache.org/front/main/index.html" title="Apache NetBeans"><img height="48" alt="Apache NetBeans" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"></a>
     &emsp;
@@ -73,6 +83,10 @@ I'm self-taught and passionate about programming and software development.
     <a href="https://developer.android.com/studio?hl=es-419" title="Android Studio"><img height="48" alt="Android Studio" src="https://skillicons.dev/icons?i=androidstudio"></a>
     &emsp;
     <a href="https://www.jetbrains.com/es-es/idea/" title="IntelliJ IDEA"><img height="48" alt="IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea"></a>
+    &emsp;
+    <a href="https://zed.dev/" title="Zed"><img height="48" alt="Zed" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zed/zed-original.svg"></a>
+    &emsp;
+    <a href="https://antigravity.google/" title="Antigravity IDE"><img height="48" alt="Antigravity IDE" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg"></a>
 </p>
 
 ### Operating Systems
