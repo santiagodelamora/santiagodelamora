@@ -98,6 +98,30 @@ I'm self-taught and passionate about programming and software development.
     <a href="https://www.android.com/intl/es-419_mx/" title="Android"><img height="48" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"></a>
 </p>
 
+## 🎓 Certifications
+### Cisco Networking Academy
+<p align="center">
+    <img alt="Linux Essentials" src="https://img.shields.io/badge/Linux_Essentials-Apr_5%2C_2026-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+    <img alt="C++ Essentials 1" src="https://img.shields.io/badge/C%2B%2B_Essentials_1-Jun_14%2C_2026-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+</p>
+
+### Sololearn
+<p align="center">
+    <img alt="Python Developer" src="https://img.shields.io/badge/Python_Developer-Jul_5%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="Java Intermediate" src="https://img.shields.io/badge/Java_Intermediate-Jul_6%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="JavaScript Intermediate" src="https://img.shields.io/badge/JavaScript_Intermediate-Jul_11%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="Web Development" src="https://img.shields.io/badge/Web_Development-Jul_27%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-Jul_27%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="Introduction to SQL" src="https://img.shields.io/badge/Introduction_to_SQL-Dec_22%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="SQL Intermediate" src="https://img.shields.io/badge/SQL_Intermediate-Dec_27%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+    <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe_Coding-Dec_27%2C_2025-149EF2?style=for-the-badge&logo=sololearn&logoColor=white">
+</p>
+
+### Santander Open Academy
+<p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/Python-Jul_11%2C_2025-EC0000?style=for-the-badge">
+</p>
+
 ## 💬 Random dev quote
 
 <div align="center">
