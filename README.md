@@ -74,7 +74,7 @@ I'm self-taught and passionate about programming and software development.
     <a href="https://www.figma.com/" title="Figma"><img height="48" alt="Figma" src="https://skillicons.dev/icons?i=figma"></a>
 </p>
 
-### IDEs & Editores de Código
+### IDEs & Code Editors
 <p align="center">
     <a href="https://netbeans.apache.org/front/main/index.html" title="Apache NetBeans"><img height="48" alt="Apache NetBeans" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg"></a>
     &emsp;
